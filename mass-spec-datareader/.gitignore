@@ -1,0 +1,25 @@
+# Mass Spec Proprietary Data Formats
+*.raw
+*.wiff
+*.d
+*.idx
+*.cal
+*.log
+
+# Open Data Formats
+*.mzML
+*.mzXML
+*.imzML
+*.ibd
+
+# Analysis Outputs
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
