@@ -1,10 +1,17 @@
-pyopenms
-pyteomics
-pyimzML
-numpy
-pandas
-polars
 click
-lxml
+numpy
+polars
 matplotlib
 seaborn
+pyteomics
+pyimzml
+pandas
+opencv-python
+scikit-image
+scipy
+anndata
+spatialdata
+# To enable advanced segmentation (optional)
+# segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+# torch 
+# torchvision

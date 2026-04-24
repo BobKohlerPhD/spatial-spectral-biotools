@@ -18,8 +18,17 @@
 *.parquet
 *.h5
 *.hdf5
+*.h5ad
+*.png
+*.pdf
 
-# Environment
+# Local Assets and Diagnostics
+assets_final/
+analysis_results/
+!assets/
+
+# Environment and Binaries
 .venv/
 __pycache__/
 *.pyc
+osx-arm64/

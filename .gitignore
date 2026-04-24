@@ -12,3 +12,9 @@ czi-viewer/TEST.czi
 **/napari-runtime/
 **/.DS_Store
 **/.setup_done
+**/.venv/
+**/__pycache__/
+**/analysis_results/
+**/assets_final/
+**/osx-arm64/
+*.pyc
