@@ -30,6 +30,6 @@ python processor.py --input-dir /path/to/data --align-to histology_ref.tif
 To enable MedSAM-powered masking, download the `medsam_vit_b.pth` checkpoint and place it in the `models/` directory; the pipeline will automatically detect it and upgrade the segmentation workflow.
 
 #### Registration & Integration Example
-Below is an example of the publication-grade dashboard generated after successful registration and multimodal integration:
+Below is an example visualization of successful registration and multimodal integration from simulated data:
 
 ![Example Publication Dashboard](assets/example_dashboard.png)
